@@ -1,1 +1,2 @@
-Hi
+This section contains algorithms for Image Processing which includes conversion of an Indexed image, Gray scale image, RGB histograms, Threshold images, and Edge Detection operators such as Sobel and Canny Operators.
+And also algorithms for detecting the colour of different shapes.
